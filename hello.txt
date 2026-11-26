@@ -1,0 +1,3 @@
+Hello from the IBM Full Stack Software Developer course lab.
+This file was uploaded to the testrepo repository as part of the
+"GitHub Sign Up and Create Repo" hands-on lab (Getting Started with Git and GitHub).
